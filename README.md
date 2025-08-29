@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[NSQ-实时分布式消息平台]()
+- 镜像商品：[NSQ-实时分布式消息平台](https://marketplace.huaweicloud.com/hidden/contents/ee8d9c72-7cc3-4cc0-ad8b-b97aef5273ca#productid=OFFI1161477316831555584)
 - 镜像规格：NSQ1.3.0-kunpeng-v1.0
 - 预置环境：NSQ1.3.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
