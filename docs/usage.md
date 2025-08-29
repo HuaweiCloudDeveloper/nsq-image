@@ -2,7 +2,7 @@
 
 # 商品链接
 
-[NSQ-云原生消息系统]()
+[NSQ-云原生消息系统](https://marketplace.huaweicloud.com/hidden/contents/ee8d9c72-7cc3-4cc0-ad8b-b97aef5273ca#productid=OFFI1161477316831555584)
 
 # 商品说明
 
