@@ -28,7 +28,7 @@
 9. Dynamic Topology Discovery: Consumers query the list of available nsqd nodes through nsqlookupd, automatically sensing cluster changes (such as new nodes or node failures) to achieve dynamic load balancing.
 10. Lightweight and Low Resource Consumption: A single nsqd instance requires only minimal CPU and memory resources (approximately 10MB memory under default configuration), making it suitable for containerized deployment and edge computing scenarios.
 
-This project offers pre-configured [**`NSQ-Real-time Distributed Messaging Platform`**]()，images with NSQ and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**`NSQ-Real-time Distributed Messaging Platform`**](https://marketplace.huaweicloud.com/intl/hidden/contents/26d3fa0c-95ba-4315-bbd0-ad90fae6b63c)，images with NSQ and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 **Architecture Design:**
 
